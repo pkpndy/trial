@@ -1,6 +1,0 @@
-Link -> NFT 
-1. Contract takes link of the assets.
-2. Assets can be ERC721.
-3. Ropsten testnet pe deployed.
-4. Local system pe kaise reproduce krna hai iske steps bhi readme mein daalna hai.
-5. Github pe private repo bnana hai uspe ye solution daalna hai.
