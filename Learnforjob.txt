@@ -1,0 +1,10 @@
+The services cover all Software Engineer Intern
+responsibilities, including but not limited to:
+• Writing and maintaining frontend codebase
+• Creating/ integrating with smart contract and backend
+• Writing end-to-end tests for all codebases
+(contracts, middleware, front-end)
+• Documenting the entire development
+process
+• Being on top of the latest developments in
+the DeFi ecosystem
